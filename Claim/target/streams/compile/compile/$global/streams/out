@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/harsha.kulluru/Documents/CLaims_Data_For_Test_database/src/main/scala/Test_Data.scala:75:30: Non-zero integral values may not have a leading zero.[0m
+[0m[[0m[31merror[0m] [0m[0m    var dat:Date=new Date(22/05/2013)[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/harsha.kulluru/Documents/CLaims_Data_For_Test_database/src/main/scala/Test_Data.scala:88:25: ';' expected but ')' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    if (df6.count() != 0) {[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

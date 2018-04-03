@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.ibm.db2.jcc:db2jcc4:10.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.ibm.db2.jcc/db2jcc4/jars/db2jcc4-10.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
