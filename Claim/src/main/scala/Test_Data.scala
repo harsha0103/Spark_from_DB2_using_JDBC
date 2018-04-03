@@ -7,11 +7,11 @@ object Test_Data {
   def main(args: Array[String]) {
     val t1 = System.nanoTime
     print(t1 / 1e9d)
-    var jdbcUsername = "hkolluru"
-    var jdbcPassword = "Nirmal0103!"
-    val jdbcHostname = "test.odhmentrics.com"
+    var jdbcUsername = "-"
+    var jdbcPassword = "-"
+    val jdbcHostname = "-"
     val jdbcPort = 50000
-    val jdbcDatabase = "mentrics"
+    val jdbcDatabase = "-"
     // Create the JDBC URL without passing in the user and password parameters.
     val jdbcUrl = s"jdbc:db2://${jdbcHostname}:${jdbcPort}/${jdbcDatabase}"
     val connectionProperties = new java.util.Properties()
